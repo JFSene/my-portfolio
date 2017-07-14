@@ -9,7 +9,7 @@
     "start": "node src/server/index.js --progress --colors --profile",
     "start-prod": "NODE_ENV=production node src/server/index.js --progress --colors --profile",
     "build": "npm run clean && SET NODE_ENV=production webpack -p --progress --colors --profile",
-    "postinstall": "npm run start-prod"
+    "postinstall": "npm run start"
   },
   "repository": {
     "type": "git",

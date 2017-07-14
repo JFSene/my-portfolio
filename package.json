@@ -16,6 +16,7 @@
   },
   "license": "MIT",
   "dependencies": {
+    "node": "6.11.1,
     "express": "^4.13.3",
     "react": "^0.13.3",
     "react-router": "^1.0.0-rc1",

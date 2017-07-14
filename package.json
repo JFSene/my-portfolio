@@ -15,6 +15,10 @@
     "type": "git",
     "url": "git+https://github.com/JFSene/my-portfolio"
   },
+  "engines": {
+    "node": "6.11.1"
+  },
+  
   "license": "MIT",
   "dependencies": {
     "express": "^4.13.3",
@@ -26,8 +30,7 @@
     "redux-thunk": "^0.1.0",
     "history": "1.13.0",
     "classnames" : "^2.1.5",
-    "axios" : "^0.7.0",
-    "node": "^6.11.1"
+    "axios" : "^0.7.0"
   },
   "devDependencies": {
     "babel": "^5.8.21",

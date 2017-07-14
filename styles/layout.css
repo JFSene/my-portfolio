@@ -26,7 +26,7 @@ body {
 
 html {
   font-family: "PT Sans",Helvetica,Arial,sans-serif;
-  background:#fafafa;
+  background: #f7f7f7;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -152,7 +152,7 @@ h1, h2, h3, h4, h5, h6 {
 /* Sidebar content */
 .sidebar a {
   font-weight: 600;
-  color: #FF5722;
+  color: #80deea;
 }
 .sidebar-item {
   padding: 1rem;
@@ -283,9 +283,9 @@ a.sidebar-nav-item:focus {
 }
 
 .sidebar-footer a{
-  color: #FF5722;
+  color: #80deea;
   opacity: 0.8;
-  border-bottom:1px dotted #FF5722;
+  border-bottom:1px dotted #80deea;
   margin-right:1em;
 }
 

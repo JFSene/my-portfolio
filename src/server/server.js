@@ -37,7 +37,7 @@ const renderFullPage = (html, initialState) => {
   `;
 }
 
-if(process.env.NODE_ENV !== 'production'){
+if(process.env.NODE_ENV != 'production'){
   const compiler = webpack(webpackConfig);
   app.use(webpackDevMiddleware(compiler, { noInfo: true, publicPath: webpackConfig.output.publicPath }));
   app.use(webpackHotMiddleware(compiler));

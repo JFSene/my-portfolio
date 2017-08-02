@@ -2,8 +2,6 @@
 
 A Portfolio example of an isomorphic rendering application in React and Redux. [Live Example Here](http://www.callumrimmer.co.uk)
 
-<img src="http://g.recordit.co/cO0pqgO8Fo.gif" width="728" />
-
 ## Development Installation
 
 In the project's directory, run the following commands:
